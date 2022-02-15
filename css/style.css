@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.movie-card {
+    height: 65vh;
+    margin: 5rem; 
+    background: linear-gradient(to right, rgba(10.5, 31.5, 52.5, 1) 150px, rgba(10.5, 31.5, 52.5, 0.84) 100%),
+    url('../images/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg');
+
+}
